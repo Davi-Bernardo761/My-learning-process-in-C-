@@ -1,3 +1,4 @@
+//This program counts all even numbers from 0 to 50 and print them on the screen.
 #include <iostream>
 #include <string>
 using namespace std;

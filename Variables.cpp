@@ -1,3 +1,4 @@
+//This program asks the user for a series of personal details, stores then in variables and prints the information.
 #include <string>
 #include <iostream>
 using namespace std;

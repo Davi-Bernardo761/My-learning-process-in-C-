@@ -1,3 +1,4 @@
+//This program takes a number from the user and prints it's first 5 multiples
 #include <iostream>
 #include <string>
 using namespace std;

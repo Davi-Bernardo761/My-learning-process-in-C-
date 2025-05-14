@@ -1,3 +1,4 @@
+//This program asks the user for their age and prints it on the screen.
 #include <iostream>
 #include <string>
 using namespace std;

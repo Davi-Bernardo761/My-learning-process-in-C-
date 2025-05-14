@@ -1,3 +1,4 @@
+//This program takes 3 numbers from the user and calculates it's avarage value.
 #include <iostream>
 #include <string>
 using namespace std;

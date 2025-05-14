@@ -1,3 +1,4 @@
+//This program receives the lenghts of 3 sides of a triangle and tells the user which type of triangle it is.
 #include <iostream>
 #include <string>
 using namespace std;

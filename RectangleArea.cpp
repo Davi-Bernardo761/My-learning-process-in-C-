@@ -1,3 +1,4 @@
+//This program receives the lenghts of two sides of a trianglue and calculates it's area.
 #include <iostream>
 #include <string>
 using namespace std;

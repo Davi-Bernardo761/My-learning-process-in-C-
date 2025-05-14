@@ -1,3 +1,4 @@
+//The objective of this code is to count one unity up to the number given by the user.
 #include <iostream>
 #include <string>
 using namespace std;

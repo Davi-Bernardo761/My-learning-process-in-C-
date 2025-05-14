@@ -1,3 +1,4 @@
+//This program prints all number from 10 down to 0.
 #include <iostream>
 #include <string>
 using namespace std;

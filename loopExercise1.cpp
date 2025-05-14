@@ -1,4 +1,4 @@
-//The objective of this code is to count one unity up to the number given by the user.
+//This program takes an integer given by the user and prints all integers from 0 up to that number.
 #include <iostream>
 #include <string>
 using namespace std;
